@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "character": "Bender",
+    "quote": "Bite my shiny metal ass.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+  },
+  {
+    "id": 1,
+    "character": "Leela",
+    "quote": "...at least here you'll be treated with dignity. Now strip naked and get on\nthe probulator.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904145/leela.png"
+  },
+  {
+    "id": 2,
+    "character": "Fry",
+    "quote": "...it's what seperates humans and robots from animals and animal robots.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904133/fry.png"
+  },
+  {
+    "id": 3,
+    "character": "Bender",
+    "quote": "Everybody's a jerk: you, me, this jerk.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+  },
+  {
+    "id": 4,
+    "character": "Bender",
+    "quote": "Of all the friends I've had, you're the first.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+  },
+  {
+    "id": 5,
+    "character": "Bender",
+    "quote": "I hate the people that love me, and they hate me.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+  },
+  {
+    "id": 6,
+    "character": "Calculon",
+    "quote": "Me too. I'm filled with a large number of powerful emotions.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904047/calculon.jpg"
+  },
+  {
+    "id": 7,
+    "character": "URL",
+    "quote": "You call that an antenna?",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904048/Url.jpg"
+  },
+  {
+    "id": 8,
+    "character": "Professor Farnsworth",
+    "quote": "...each pound of which weighs over 10,000 pounds.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904014/farnsworth.png"
+  },
+  {
+    "id": 9,
+    "character": "Bender",
+    "quote": "That'll take forever. What she ought to do is find a nice guy with two eyes\nand poke one out.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+  },
+  {
+    "id": 10,
+    "character": "Zapp Brannigan",
+    "quote": "I'm anticipating an all-out tactical dogfight, followed by a light dinner.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+  },
+  {
+    "id": 11,
+    "character": "Zapp Brannigan",
+    "quote": "In the game of chess you can never let your adversary see your pieces.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+  },
+  {
+    "id": 12,
+    "character": "Bender",
+    "quote": "A grim day for robot-kind. But we can always build more killbots.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+  },
+  {
+    "id": 13,
+    "character": "Professor Farnsworth",
+    "quote": "Now, now, there will be plenty of time to discuss your objections when and if\nyou return.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904014/farnsworth.png"
+  },
+  {
+    "id": 14,
+    "character": "Bender",
+    "quote": "I'm gonna drink 'til I reboot.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+  },
+  {
+    "id": 15,
+    "character": "Bender",
+    "quote": "What kind of party is this? There's no booze and only one hooker.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+  },
+  {
+    "id": 16,
+    "character": "Fry",
+    "quote": "I haven't had time off since I was 21 through 24.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904133/fry.png"
+  },
+  {
+    "id": 17,
+    "character": "Bender",
+    "quote": "I assure you, I barely know the meaning of the word labor.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+  },
+  {
+    "id": 18,
+    "character": "Bender",
+    "quote": "I'm a fraud. A poor, lazy, sexy fraud.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+  },
+  {
+    "id": 19,
+    "character": "Zapp Brannigan",
+    "quote": "You remind me of a young me. Not much younger mind you; perhaps even a couple\nof years older.",
+    "image": "https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+  }
+]
