@@ -1,52 +1,31 @@
-# Next.js Starter Tailwind
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# Flash Cards using Next.js Starter Tailwind
 
-![alt text](https://github.com/taylorbryant/next-starter-tailwind/blob/master/public/screenshot.png "Screenshot of Tailwind Next.js Starter homepage")
+## Next Starter Tailwind
 
- <div align="center">
- <p><strong>A <a href="https://nextjs.org" target="_blank">Next.js</a> starter styled using <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>, a utility-first CSS framework.</strong></p>
- <p>Uses Tailwind's <a href="https://tailwindcss.com/docs/controlling-file-size" target="_blank">built-in purge option</a> to remove unused CSS.</p>
- <p>Illustrations by <a href="https://undraw.co/" target="_blank">unDraw</a>.</p>
- <p>View demo <a href="https://next-starter-tailwind.oddstronaut.com/" target="_blank">here</a>.</p>
-</div>
+Shout out to Taylor Bryant for their excellent starter for Next and Tailwind. For me, it had exactly the right amount of configuration with no overt opinions. You can find it [here](https://github.com/taylorbryant/next-starter-tailwind).
 
-## Deploy
+## 50 React Projects
 
-### Netlify
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/taylorbryant/next-starter-tailwind)
+This repo was the output of a stream with the excellent [Colby Fayock](colbyfayock.com/). Colby has recently published a free ebook with 50 projects to build to help grow your development skills. You can get your own copy by signing up [here](https://50reactprojects.com).
 
-### Vercel (FKA ZEIT Now)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Ftaylorbryant%2Fnext-starter-tailwind%2Ftree%2Fmaster)
+This is one of the projects from the book.
 
-## License
+## Flash Cards
 
-[MIT](https://github.com/taylorbryant/next-starter-tailwind/blob/master/LICENSE.md)
+This is a system to learn Futurama quotes - we got the data from [here](https://futuramaapi.herokuapp.com/) and moved that into a local JSON file.
 
-## How you can help
+We then used state and styling to make the card system.
 
-Enjoying this starter and want to help? You can:
+## Next steps
 
-- [Create an issue](https://github.com/taylorbryant/next-starter-tailwind/issues/new) with some constructive criticism
-- [Submit a pull request](https://github.com/taylorbryant/next-starter-tailwind/compare) with some improvements to the project
+I'm not sure we'll take this project any further but if we were we'd look at some of the following:
 
-## Contributors ✨
+- Add a counter at the bottom
+- Add animation with a "stack" of cards, a correct correct being discarded and an incorrect one going to the back
+- Add a DB backend. Colby's book suggests using Firebase - my default tool for this would have been Mongo but I'd enjoy trying something new (to me) like Firebase
+- Add the ability to add your own cards
+- Add the ability to retain progress over time
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+## Stream
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Mozart409"><img src="https://avatars2.githubusercontent.com/u/38767929?v=4" width="100px;" alt=""/><br /><sub><b>Amadeus</b></sub></a><br /><a href="https://github.com/taylorbryant/next-starter-tailwind/commits?author=Mozart409" title="Code">💻</a> <a href="#ideas-Mozart409" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://www.synaptech.fr"><img src="https://avatars3.githubusercontent.com/u/10560326?v=4" width="100px;" alt=""/><br /><sub><b>David Eugene</b></sub></a><br /><a href="https://github.com/taylorbryant/next-starter-tailwind/commits?author=egdavid" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+Colby and I worked on this during a live-stream. You can find it [here](https://youtu.be/5yIBAeGphTw).
